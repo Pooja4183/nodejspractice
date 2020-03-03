@@ -6,7 +6,7 @@ multiply = multi(4,6)
 
 console.log(multiply)
 
-msg = notes("bipul")
+msg = notes("sonu")
 
 console.log(msg)
 
